@@ -1,5 +1,7 @@
 # Bilibili Live Chat
 
+maple367:防止作者自己的反代request不够使用，重新改为自己的反代服务器，并重新部署。
+
 ![Preview](https://i.loli.net/2020/06/20/vXuZKCq396co2HO.gif)
 
 这是一个无后端的，仿 YouTube Live Chat 的，箱都不用开就能食用的 Bilibili 直播弹幕姬
