@@ -57,6 +57,7 @@ export default {
       onBeforeUnmount(() => live.close());
       live.on('open', () => {
         if (live.closed) return;
+        addInfoDanmaku('=v=');
         console.log('已连接直播弹幕服务器');
         addInfoDanmaku('已连接直播弹幕服务器');
       });
